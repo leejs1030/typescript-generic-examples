@@ -1,0 +1,15 @@
+{
+  "name": "typescript-generic-examples",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "leejs1030",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.4"
+  }
+}
